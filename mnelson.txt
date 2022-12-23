@@ -1,1 +1,2 @@
 1. Changes done on master
+1. Changes done on my-new-branch
